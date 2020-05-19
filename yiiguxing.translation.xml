@@ -1,0 +1,49 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="immutable" />
+      <item value="multiple" />
+      <item value="column" />
+      <item value="finalfreightmoney" />
+      <item value="EPS ORDER MST UUID" />
+      <item value="reduce" />
+      <item value="NTC NOTICE MST UUID" />
+      <item value="releasor" />
+      <item value="Deprecated" />
+      <item value="subscribe" />
+      <item value="optimization" />
+      <item value="polymorphism" />
+      <item value="Iterator" />
+      <item value="recursion" />
+      <item value="infinite" />
+      <item value="Anonymous" />
+      <item value="Semicolon" />
+      <item value="Wind" />
+      <item value="Woodwind" />
+      <item value="Brass" />
+      <item value="Stringed" />
+      <item value="Percussion" />
+      <item value="/** * Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds. */" />
+      <item value="Computes key.hashCode() and spreads (XORs) higher bits of hash * to lower. Because the table uses power-of-two masking, sets of * hashes that vary only in bits above the current mask will * always collide. (Among known examples are sets of Float keys * holding consecutive whole numbers in small tables.) So we * apply a transform that spreads the impact of higher bits * downward. There is a tradeoff between speed, utility, and * quality of bit-spreading. Because many common sets of hashes * are already reasonably distributed (so don't benefit from * spreading), and because we use trees to handle large sets of * collisions in bins, we just XOR some shifted bits in the * cheapest possible way to reduce systematic lossage, as well as * to incorporate impact of the highest bits that would otherwise * never be used in index calculations because of table bounds." />
+      <item value="per" />
+      <item value="radix" />
+      <item value="conjunction" />
+      <item value="comments . sql" />
+      <item value="Central repository marker interface. Captures the domain type to manage as well as the domain type's id type. General * purpose is to hold type information as well as being able to discover interfaces that extend this one during * classpath scanning for easy Spring bean creation" />
+      <item value="client" />
+      <item value="zero Date Time Behavior" />
+      <item value="INTERNAL SERVER ERROR" />
+      <item value="request" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

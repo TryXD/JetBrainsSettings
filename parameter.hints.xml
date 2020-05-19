@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.i1.bf.cam.api.common.dao.BaseRepository.queryAllData(params,tag,helper)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
